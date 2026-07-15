@@ -1,0 +1,16 @@
+{
+  "clips_dir":  "C:\\Users\\suraj\\OneDrive\\Desktop\\WEbsites\\nitro-v15-scroll\\assets\\clips",
+  "frames_dir": "C:\\Users\\suraj\\OneDrive\\Desktop\\WEbsites\\nitro-v15-scroll\\frames",
+  "master":     "C:\\Users\\suraj\\OneDrive\\Desktop\\WEbsites\\nitro-v15-scroll\\assets\\master.mp4",
+  "fps": 12,
+  "width": 1400,
+  "xfade": 0.4,
+  "chapters": [
+    {"name": "hero",     "file": "ch1-hero.mp4"},
+    {"name": "keyboard", "file": "ch2-keyboard.mp4"},
+    {"name": "display",  "file": "ch3-display.mp4"},
+    {"name": "cooling",  "file": "ch4-cooling.mp4"},
+    {"name": "side",     "file": "ch5-side.mp4"},
+    {"name": "final",    "file": "ch6-final.mp4"}
+  ]
+}

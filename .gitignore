@@ -1,0 +1,8 @@
+.env
+.DS_Store
+# Exclude raw video clips to keep repo light (since frames/ contains the compressed webp frames for the site)
+assets/clips/
+assets/master.mp4
+# Local python server cache or logs
+__pycache__/
+*.log
